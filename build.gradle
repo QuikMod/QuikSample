@@ -14,5 +14,5 @@ buildscript {
 
 // Plugins
 plugins {
-	id 'com.rlonryan.quikmod' version '1.0.16'
+	id 'com.rlonryan.quikmod' version '1.0.17'
 }
